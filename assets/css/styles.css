@@ -159,7 +159,7 @@ img{
 }
 /*==================== LAYOUT ====================*/
 .container{
-    max-width: 768px;
+    max-width: 1000px;
     margin-left: var(--mb-1-5);
     margin-right: var(--mb-1-5);
 }
@@ -424,7 +424,7 @@ img{
     margin-left: 20px;
 }
 .about__description{
-    text-align: center;
+    text-align: justify;
     margin-bottom: var(--mb-2-5);
 }
 
@@ -1146,7 +1146,7 @@ img{
         width: 350px;
     }
     .about__description{
-        text-align: center;
+        text-align: justify;
     }
     .about__info{
         justify-content: space-between;
